@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine/Endless/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZZ/CPBCKPP8DXCLDDA260FXTC.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UJ/4AR7H77WRQH1EHS9HOVYB6.uasset",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Input/Actions/IA_Turn.uasset",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/P1/YIOXQ7PWE8BPXJDGS395KH.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QD/OKCC6EROGVHAT37SWWHU5A.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MK/WQOLY79KOZNYBNDLDP3934.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7P/NQ57RQ7XMHXAS1JUAT97QT.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8W/33P6I4LN1UI98NGNYQXDV9.uasset",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_Pickable.uasset",
+				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IV/IR77MZJIAT1HRFY2WFVRPW.uasset"
+			]
+		}
+	]
+}
