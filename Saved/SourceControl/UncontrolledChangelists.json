@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/Unreal Engine/Endless/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZZ/CPBCKPP8DXCLDDA260FXTC.uasset",
@@ -37,6 +38,9 @@
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_CA3.uasset",
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_ESE_2.uasset",
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/EXTRA/bettle_theme.uasset"
+=======
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Asset/Rock_Scrapes_ODY-1166-010-03.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
