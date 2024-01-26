@@ -5,43 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/EXTRA/bettle_theme.uasset",
-<<<<<<< Updated upstream
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/AUDIO/WhatsApp_Image_2024-01-22_at_8_41_12_AM__1_.uasset",
-=======
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audiomin/WhatsApp_Image_2024-01-22_at_8_41_08_AM.uasset",
->>>>>>> Stashed changes
-				"D:/Unreal Engine/Endless/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZZ/CPBCKPP8DXCLDDA260FXTC.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UJ/4AR7H77WRQH1EHS9HOVYB6.uasset",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Input/Actions/IA_Turn.uasset",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/P1/YIOXQ7PWE8BPXJDGS395KH.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QD/OKCC6EROGVHAT37SWWHU5A.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MK/WQOLY79KOZNYBNDLDP3934.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7P/NQ57RQ7XMHXAS1JUAT97QT.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8W/33P6I4LN1UI98NGNYQXDV9.uasset",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
-				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_Pickable.uasset",
-				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IV/IR77MZJIAT1HRFY2WFVRPW.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MN/ESZEJWMULWJZI52QELQ60P.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MK/WQOLY79KOZNYBNDLDP3934.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IV/IR77MZJIAT1HRFY2WFVRPW.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8W/33P6I4LN1UI98NGNYQXDV9.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W4/OFYT2DHHGXU4ZAOBQUFE64.uasset",
-				"D:/Unreal Engine/Github/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NE/66FHPDG5GFWS9ME9V0YPKU.uasset",
-				"D:/Unreal Engine/Github/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"D:/Unreal Engine/Github/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Engine/Github/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
-				"D:/Unreal Engine/Github/Content/ThirdPerson/Blueprints/BP_RandomEnemy.uasset",
-				"D:/Unreal Engine/Github/Content/ThirdPerson/Blueprints/BP_RandomPickable.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IV/IR77MZJIAT1HRFY2WFVRPW.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MN/ESZEJWMULWJZI52QELQ60P.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_CA3.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_ESE_2.uasset"
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Bark.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Cry.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Snarl.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Whimper.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
