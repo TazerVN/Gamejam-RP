@@ -5,12 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/EXTRA/bettle_theme.uasset",
 <<<<<<< Updated upstream
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/AUDIO/WhatsApp_Image_2024-01-22_at_8_41_12_AM__1_.uasset",
-=======
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audiomin/WhatsApp_Image_2024-01-22_at_8_41_08_AM.uasset",
->>>>>>> Stashed changes
 				"D:/Unreal Engine/Endless/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"D:/Unreal Engine/Endless/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine/Endless/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZZ/CPBCKPP8DXCLDDA260FXTC.uasset",
@@ -41,7 +36,11 @@
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IV/IR77MZJIAT1HRFY2WFVRPW.uasset",
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MN/ESZEJWMULWJZI52QELQ60P.uasset",
 				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_CA3.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_ESE_2.uasset"
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/PHAMMINHTUAN_21007622_T319_ESE_2.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/EXTRA/bettle_theme.uasset"
+=======
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Asset/Rock_Scrapes_ODY-1166-010-03.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
