@@ -5,19 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/buff/Speed_Boost.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/gameplay/Game_Clear.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/ui/Fart_Reverb.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/ui/Imported/UI_1_Return.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/ui/Imported/UI_2_Select.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Bark.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Cry.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Snarl.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/fox/MS/MS_Fox_Whimper.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JT/GE4MUA7C0LAQVEZLD4FRXS.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/collectibles/buff/Speed_Boost.uasset",
-				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/ui/Imported/Fart_Reverb.uasset"
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_1.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_1_Rev.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_2.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_2_Rev.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_3.uasset",
+				"C:/Users/STAFF/Documents/GitHub/Gamejam-RP/Content/Audio/Enemy/Enemy_3_Rev.uasset"
 			]
 		}
 	]
